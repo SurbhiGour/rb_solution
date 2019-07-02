@@ -1,0 +1,20 @@
+/*@font-face {
+font-family: "Harabara Bold";
+src: url("css/fonts/Jane_Austin_Alt.eot");
+src: 
+url("css/fonts/Jane_Austin_Alt.woff") format("woff"),
+
+url("css/fonts/Jane_Austin_Alt.svg#filename") format("svg");
+}
+*/
+
+
+@font-face {
+font-family: "Harabara Bold";
+
+src: url("css/fonts/Abbeyline.eot");
+src: 
+url("css/fonts/Abbeyline.woff") format("woff"),
+url("css/fonts/Abbeyline.ttf") format("ttf"),
+url("css/fonts/Abbeyline.svg") format("svg");
+}

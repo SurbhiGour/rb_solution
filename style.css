@@ -1,0 +1,20 @@
+/*@font-face {
+font-family: "Harabara Bold";
+src: url("css/fonts/Jane_Austin_Alt.eot");
+src: 
+url("css/fonts/Jane_Austin_Alt.woff") format("woff"),
+
+url("css/fonts/Jane_Austin_Alt.svg#filename") format("svg");
+}
+*/
+
+
+@font-face {
+font-family: "Harabara Bold";
+
+src: url("css/fonts/Blusty_Script_Free.eot.eot");
+src: 
+url("css/fonts/Blusty_Script_Free.woff") format("woff"),
+url("css/fonts/Blusty_Script_Free.ttf") format("ttf"),
+url("css/fonts/Blusty_Script_Free.svg") format("svg");
+}
